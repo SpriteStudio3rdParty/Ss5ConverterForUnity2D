@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: d90c6931aa058e542825d365c1445c54
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: body
+    21300004: hip
+    21300006: tight_r
+    21300008: leg_r
+    21300010: leg_l
+    21300012: upperarm_l
+    21300014: arm_r
+    21300016: upperarm_r
+    21300018: hair
+    21300020: arm_l
+    21300022: shadow
+    21300024: tight_l
+    21300026: object1
+    21300028: object2
+    21300030: object3
+    21300032: ribbon_r
+    21300034: ribbon_l
+    21300036: maedare_r
+    21300038: maedare_l
+    21300040: eye1
+    21300042: eye2
+    21300044: eye3
+    21300046: eye4
+    21300048: eye5
+    21300050: eye6
+    21300052: eye7
+    21300054: mouth1
+    21300056: mouth7
+    21300058: mouth2
+    21300060: mouth3
+    21300062: mouth4
+    21300064: mouth5
+    21300066: mouth6
+    21300068: backhair
+    21300070: fronthair_c
+    21300072: arm_croth
+    21300074: fronthari_r
+    21300076: fronthair_l
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 337
+        width: 159
+        height: 165
+      alignment: 9
+      pivot: {x: .520376205, y: .256797552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 167
+        width: 166
+        height: 162
+      alignment: 9
+      pivot: {x: .465465456, y: .323076934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hip
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 167
+        height: 153
+      alignment: 9
+      pivot: {x: .479041904, y: .657980442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tight_r
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 363
+        width: 79
+        height: 92
+      alignment: 9
+      pivot: {x: .626582265, y: .706521749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leg_r
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 241
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: .591463387, y: .761261284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leg_l
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 241
+        width: 73
+        height: 111
+      alignment: 9
+      pivot: {x: .417808205, y: .765765727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upperarm_l
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 139
+        width: 88
+        height: 94
+      alignment: 9
+      pivot: {x: .310734481, y: .627659559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_r
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 129
+        width: 61
+        height: 105
+      alignment: 9
+      pivot: {x: .483606547, y: .815165877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upperarm_r
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 39
+        width: 88
+        height: 94
+      alignment: 9
+      pivot: {x: .299435019, y: .619047582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hair
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 241
+        width: 149
+        height: 267
+      alignment: 9
+      pivot: {x: .428093642, y: .765917599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_l
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 129
+        width: 61
+        height: 105
+      alignment: 9
+      pivot: {x: .467213124, y: .819905221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 7
+        width: 89
+        height: 25
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tight_l
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 363
+        width: 79
+        height: 92
+      alignment: 9
+      pivot: {x: .367088616, y: .706521749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: object1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 7
+        width: 219
+        height: 115
+      alignment: 9
+      pivot: {x: .783105016, y: .769565225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: object2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 460
+        width: 159
+        height: 48
+      alignment: 9
+      pivot: {x: .603773594, y: .260416657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: object3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 129
+        width: 87
+        height: 105
+      alignment: 9
+      pivot: {x: .5, y: .45497629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ribbon_r
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 438
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: .28125, y: .213235289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ribbon_l
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 442
+        width: 117
+        height: 65
+      alignment: 9
+      pivot: {x: .102127671, y: .24427478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maedare_r
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 361
+        width: 43
+        height: 77
+      alignment: 9
+      pivot: {x: .551724136, y: .811688304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maedare_l
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 365
+        width: 50
+        height: 76
+      alignment: 9
+      pivot: {x: .409999996, y: .764705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eye1
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 307
+        width: 105
+        height: 42
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eye2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 237
+        width: 105
+        height: 42
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eye3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 191
+        width: 105
+        height: 42
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eye4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 146
+        width: 104
+        height: 42
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eye5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 103
+        width: 105
+        height: 42
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eye6
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 58
+        width: 105
+        height: 42
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eye7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 13
+        width: 105
+        height: 42
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouth1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 284
+        width: 42
+        height: 15
+      alignment: 9
+      pivot: {x: .505882382, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouth7
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 128
+        width: 37
+        height: 16
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouth2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 244
+        width: 42
+        height: 15
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouth3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 217
+        width: 42
+        height: 15
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouth4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 196
+        width: 42
+        height: 15
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouth5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 177
+        width: 42
+        height: 15
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouth6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 152
+        width: 42
+        height: 20
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backhair
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 155
+        width: 108
+        height: 280
+      alignment: 9
+      pivot: {x: .327188939, y: .907142878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fronthair_c
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 269
+        width: 28
+        height: 70
+      alignment: 9
+      pivot: {x: .701754391, y: .900709212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_croth
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 320
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: .21794869, y: .489795923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fronthari_r
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 361
+        width: 91
+        height: 147
+      alignment: 9
+      pivot: {x: .896174848, y: .833333373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fronthair_l
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 364
+        width: 91
+        height: 147
+      alignment: 9
+      pivot: {x: .0273224097, y: .846938789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

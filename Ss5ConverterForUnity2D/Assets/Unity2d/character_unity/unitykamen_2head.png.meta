@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: e5337c0289d30804cbccb22dd536930b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: body
+    21300004: leg_l
+    21300006: leg_r
+    21300008: hair
+    21300010: arm_l
+    21300012: object1
+    21300014: object2
+    21300016: object3
+    21300018: arm_r
+    21300020: shadow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 337
+        width: 159
+        height: 165
+      alignment: 9
+      pivot: {x: .507836998, y: .25075525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 167
+        height: 173
+      alignment: 9
+      pivot: {x: .494011968, y: .35838151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leg_l
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 364
+        width: 78
+        height: 91
+      alignment: 9
+      pivot: {x: .628205121, y: .72131151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leg_r
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 363
+        width: 79
+        height: 92
+      alignment: 9
+      pivot: {x: .33544305, y: .722826064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hair
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 281
+        width: 149
+        height: 227
+      alignment: 9
+      pivot: {x: .471571892, y: .773626387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_l
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 129
+        width: 61
+        height: 105
+      alignment: 9
+      pivot: {x: .581967235, y: .824644566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: object1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 8
+        width: 219
+        height: 115
+      alignment: 9
+      pivot: {x: .760273993, y: .765217364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: object2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 461
+        width: 159
+        height: 47
+      alignment: 9
+      pivot: {x: .603773594, y: .242105275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: object3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 130
+        width: 87
+        height: 105
+      alignment: 9
+      pivot: {x: .5, y: .450236946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_r
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 129
+        width: 61
+        height: 105
+      alignment: 9
+      pivot: {x: .590163946, y: .824644566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 7
+        width: 89
+        height: 25
+      alignment: 9
+      pivot: {x: .528089881, y: .19607842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
