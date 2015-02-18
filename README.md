@@ -1,6 +1,12 @@
 Ss5ConverterForUnity2D
 ================================
 
+##はじめに
+
+ご利用の前に必ず下記ページをお読みください。  
+http://spritestudio3rdparty.github.io/  
+上記ページの内容に同意いただけた方のみ利用することができます。  
+
 ##概要
 SpriteStudio5のアニメーションデータ(sspj)をUnity2D用のprefab、animeファイルへ変換するコンバータです。
 AnimationControllerを使用してモーションの遷移や制御を行う事ができ、モーションブレンドも行う事ができます。
